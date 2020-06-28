@@ -1,0 +1,10 @@
+D:\Works\Free\.NetCore\Uptime\bin\Debug\Uptime.exe.config
+D:\Works\Free\.NetCore\Uptime\bin\Debug\Uptime.exe
+D:\Works\Free\.NetCore\Uptime\bin\Debug\Uptime.pdb
+D:\Works\Free\.NetCore\Uptime\obj\Debug\Uptime.csprojAssemblyReference.cache
+D:\Works\Free\.NetCore\Uptime\obj\Debug\Uptime.Properties.Resources.resources
+D:\Works\Free\.NetCore\Uptime\obj\Debug\Uptime.csproj.GenerateResource.cache
+D:\Works\Free\.NetCore\Uptime\obj\Debug\Uptime.csproj.CoreCompileInputs.cache
+D:\Works\Free\.NetCore\Uptime\obj\Debug\Uptime.exe
+D:\Works\Free\.NetCore\Uptime\obj\Debug\Uptime.pdb
+D:\Works\Free\.NetCore\Uptime\obj\Debug\Uptime.Uptime.resources
